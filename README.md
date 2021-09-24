@@ -10,7 +10,7 @@ Puzzle game implemented on unity
 
 ## Video
 
-[![Watch the video](https://img.youtube.com/vi/MlQSLnFl_Dk/hqdefault.jpg)](https://youtu.be/MlQSLnFl_Dk)
+[![Watch the video](https://img.youtube.com/vi/PfVT6NbdOqU/hqdefault.jpg)](https://youtu.be/PfVT6NbdOqU)
 
 
 
@@ -18,3 +18,5 @@ Puzzle game implemented on unity
 
 ## Downloads
 [Android APK file (24Mb)](https://github.com/VanurikV/2048Boubble/raw/main/Etc/2048Boubble.apk?raw=true)
+
+
